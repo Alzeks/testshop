@@ -1,0 +1,27 @@
+.wraper {
+    display: flex;
+    padding: 30px;
+    flex-direction: column;
+    margin: auto;
+}
+
+.title {
+    display: flex;
+    width: 100%;
+
+}
+
+.item {
+    border-bottom: 1px solid white;
+}
+
+.imgblock {
+    width: 100%;
+    display: flex;
+
+}
+
+.imgtitle {
+    display: flex;
+    padding: 30px;
+}
